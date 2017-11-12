@@ -3,6 +3,8 @@ package edu.cusut.lw.graph;
 /**
  * 
  * @author Amy_oyzl
+ * @author lwiii
+ * @author wtao@qq.com
  *
  */
 public class Point {
@@ -18,7 +20,6 @@ private int x;
 	public int getX() {
 		return x;
 	}
-
 	public int getY() {
 		return y;
 	}
@@ -35,4 +36,5 @@ private int x;
 //		System.out.print("*");
 		
 	}
+
 }
